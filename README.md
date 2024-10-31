@@ -118,23 +118,44 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 
 ## 📚 Education
 
-**Masters in Information and Communication Technology (MICT)**  
+- **Masters in Information and Communication Technology (MICT)**  
   Bangladesh University of Proffesionals - 2020
 
-  - **B.Sc. in Electrical and Electronic Engineering**  
-  Bangladesh University of Proffesionals - 2020
+- **B.Sc. in Electrical and Electronic Engineering**  
+  BRAC University - 2012
+  
+- **Higher Secondary Certificate**  
+  Birsreshtha Munshi Abdur Raouf Rifles College - 2007
+  
+- **Secondary School Certificate**  
+  Wills Little Flower High School - 2005
 
-- **Masters in Informationa and Communication Technology**  
-  Bangladesh University of Proffesionals - 2020
+## 📜 Professional Certifications 
 
-  - **Masters in Informationa and Communication Technology**  
-  Bangladesh University of Proffesionals - 2020
+- *Certified in Cybersecurity*, Issuing Authority: ISC2, Inc.
+- Cisco Certified CyberOps Associate, Issuing Authority: Cisco Systems, Inc.
+- Cisco Certified Network Associate (Routing and Switching), Issuing Authority: Cisco Systems, Inc.
+- Cisco Certified Network Associate Security, Issuing Authority: Cisco Systems, Inc.
+- Certified Ethical Hacker (CEHv10), Issuing Authority: EC-Council
+- Red Hat Certified System Administrator, Enterprise 7, Issuing Authority: Red Hat, Inc.
+- Red Hat Certified Engineer, Enterprise 7, Issuing Authority: Red Hat, Inc.
 
-## 📜 Certifications
 
-- [Certification Name, e.g., CompTIA Security+] - [Year]
-- [Certification Name, e.g., Certified Information Systems Security Professional (CISSP)] - [Year]
-- [Certification Name, e.g., GIAC Certified Incident Handler (GCIH)] - [Year]
+## 📖 Training
+ICS Cybersecurity Lab (301L) - 4 days
+Conducted by CISA, USA
+This course is presented at a facility in Idaho Falls, Idaho, USA
+2020 APISC Security Training Course
+Conducted by Korea Internet and Security Agency, Republic of Korea.
+Understanding Exploits I & II
+Conducted by CYBER4Dev, Funded by European Union
+Certified Penetration Tester
+Conducted by Cybertronium, Funded by Malaysian Technical Cooperation Program
+Practical Ethical Hacking Course
+Conducted by TCM Security
+Open-Source Intelligence (OSINT) Fundamentals
+Conducted by TCM Security
+
 
 ## 🌐 Projects
 
