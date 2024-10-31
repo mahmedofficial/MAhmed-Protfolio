@@ -190,8 +190,8 @@ Conducted by Korea Internet and Security Agency, Republic of Korea.
 
 ## 📫 Contact Me
 
-- [Your Email Address]
-- [LinkedIn Profile]
+- m.ahmed.pro@gmail.com
+- [LinkedIn Profile](www.linkedin.com/in/mahmedbd)
 - [Twitter Profile]
 
 ## 💡 Let's Connect!
