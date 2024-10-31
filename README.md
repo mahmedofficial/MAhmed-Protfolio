@@ -50,34 +50,34 @@ I'm a dedicated Cybersecurity Professional with a strong background in penetrati
 
 The goal of Info-Sarker phase 2 Project is to develop Bangladesh Government Intranet backbone, which connect more than 18000 government offices including National datacenter and Disaster recovery data center.
 
-*Accomplishment*
-• Continuously support to deploy Info-Sarker IP/MPLS Network as per Low Level Design
-• IP network devices such as Firewall, Core switch, Access switch installation and commissioning in both national data center and disaster recovery datacenter.
-• In disaster recovery datacenter, deploy inline IPS solution, firewall and core routers. Deploy MPLS over EBGP to smooth synchronization between national and disaster recovery data center.
+**Accomplishment**
+- Continuously support to deploy Info-Sarker IP/MPLS Network as per Low Level Design
+- IP network devices such as Firewall, Core switch, Access switch installation and commissioning in both national data center and disaster recovery datacenter.
+- In disaster recovery datacenter, deploy inline IPS solution, firewall and core routers. Deploy MPLS over EBGP to smooth synchronization between national and disaster recovery data center.
 
-2. Teletalk LTE Project
+**2. Teletalk LTE Project**
 
 Teletalk incorporate HO-VPN LTE solution into their existing IP network. Moreover, IPSec has been introduced to encrypt LTE data traffic.
 
-Accomplishment
-• Configured Two Next Generation firewall in active-standby mode for end-to-end 4G data encryption using IPSec features.
-• Configured VPN to access IP Core network securely over internet.
-• Successfully deployed 14 core site routers as ASG to carry 2G, 3G and 4G traffic as per low-level design. 
-• Lead technical team to integrate 3300 routers as CSG in remote sites directly connected to EnodeB.
-• Successfully completed firewall, ASG and CSG devices version and patch upgrade.
+**Accomplishment**
+- Configured Two Next Generation firewall in active-standby mode for end-to-end 4G data encryption using IPSec features.
+- Configured VPN to access IP Core network securely over internet.
+- Successfully deployed 14 core site routers as ASG to carry 2G, 3G and 4G traffic as per low-level design.
+- Lead technical team to integrate 3300 routers as CSG in remote sites directly connected to EnodeB.
+- Successfully completed firewall, ASG and CSG devices version and patch upgrade.
 
-3.  Robi LTE Project
+**3.  Robi LTE Project**
 
 Robi incorporate HO-VPN LTE solution along with ring topology for LTE deployment in their IP core network. In addition, a new datacenter has been introducing under this project.
 
-Accomplishment
-• In datacenter, several firewalls installed and configured, different security zones, policies, ACL, static route, NAT services are configuring;
-• Successfully configured VPN gateway to access datacenter securely over public network through SSL tunnel;
-• In core switches, different OSPF process and vpn-instance is being configured and used layer 2 connectivity for IT servers;
-• Integration and troubleshooting newly installed ATN 950 routers as CSG;
-• PE router services migration to newly installed Net Engine series routers;
-• Configured and troubleshoot different IP Protocols OSPF, IBGP, EBGP MPLS, VRRP and so on;
-• Coordinate and communicate cross-functional departments to ensure smooth execution of the project plan.
+**Accomplishment**
+- In datacenter, several firewalls installed and configured, different security zones, policies, ACL, static route, NAT services are configuring;
+- Successfully configured VPN gateway to access datacenter securely over public network through SSL tunnel;
+- In core switches, different OSPF process and vpn-instance is being configured and used layer 2 connectivity for IT servers;
+- Integration and troubleshooting newly installed ATN 950 routers as CSG;
+- PE router services migration to newly installed Net Engine series routers;
+- Configured and troubleshoot different IP Protocols OSPF, IBGP, EBGP MPLS, VRRP and so on;
+- Coordinate and communicate cross-functional departments to ensure smooth execution of the project plan.
 
 4. Banglalink Core Giga Project
 
