@@ -133,28 +133,28 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 ## 📜 Professional Certifications 
 
 - ***Certified in Cybersecurity***, Issuing Authority: ISC2, Inc.
-- *Cisco Certified CyberOps Associate*, Issuing Authority: Cisco Systems, Inc.
-- *Cisco Certified Network Associate (Routing and Switching)*, Issuing Authority: Cisco Systems, Inc.
-- *Cisco Certified Network Associate Security*, Issuing Authority: Cisco Systems, Inc.
-- *Certified Ethical Hacker (CEHv10)*, Issuing Authority: EC-Council
-- *Red Hat Certified System Administrator*, Enterprise 7, Issuing Authority: Red Hat, Inc.
-- *Red Hat Certified Engineer, Enterprise 7*, Issuing Authority: Red Hat, Inc.
+- ***Cisco Certified CyberOps Associate***, Issuing Authority: Cisco Systems, Inc.
+- ***Cisco Certified Network Associate (Routing and Switching)***, Issuing Authority: Cisco Systems, Inc.
+- ***Cisco Certified Network Associate Security***, Issuing Authority: Cisco Systems, Inc.
+- ***Certified Ethical Hacker (CEHv10)***, Issuing Authority: EC-Council
+- ***Red Hat Certified System Administrator***, Enterprise 7, Issuing Authority: Red Hat, Inc.
+- ***Red Hat Certified Engineer, Enterprise 7***, Issuing Authority: Red Hat, Inc.
 
 
 ## 📖 Training
 
-- *ICS Cybersecurity Lab (301L) - 4 days*
+- ***ICS Cybersecurity Lab (301L) - 4 days***
 
   Conducted by CISA, USA. This course is presented at a facility in Idaho Falls, Idaho, USA
   
-- *2020 APISC Security Training Course*
+- ***2020 APISC Security Training Course***
 
 Conducted by Korea Internet and Security Agency, Republic of Korea.
 
-*Understanding Exploits I & II*
+- ***Understanding Exploits I & II***
 Conducted by CYBER4Dev, Funded by European Union
 
-*Certified Penetration Tester*
+***Certified Penetration Tester***
 
 Conducted by Cybertronium, Funded by Malaysian Technical Cooperation Program
 
