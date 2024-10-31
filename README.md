@@ -15,15 +15,29 @@ I'm a dedicated Cybersecurity Professional with a strong background in penetrati
 ### Incident Handler
 **BGD e-GOV CIRT** - Dhaka, Bangladesh  
 *July 2020 - Present*  
-- Monitor security alerts and respond to incidents using SIEM, NDR tools.
-- Conduct vulnerability assessments and penetration tests to identify risks.
-- Develop and implement security policies and procedures to enhance organizational security.
+• Perform real-time cyber defense incident handling tasks such as intrusion correlation and tracking, threat analysis, and direct system remediation.
+• Identify and analyze cyber incidents and threats by conducting security triage.
+• Actively monitor networks and systems of enlisted critical infrastructures for cyber incidents and threats.
+• Conduct security reviews of system logs and risk analysis to identify probable cyber threats.
+• Accumulate and analyze data to identify cyber security flaws and vulnerabilities and make recommendations that enable prompt remediation
+• Develop, implement, and evaluate prevention and incident response plans and activities, and adapt to contain, mitigate or eradicate effects of cyber security incident 
+• Provide incident analysis support on response plans and activities.
+
 
 
 ## 📚 Education
 
-- **[Degree] in Cybersecurity**  
-  [University Name] - [Year of Graduation]
+- **Masters in Informationa and Communication Technology**  
+  Bangladesh University of Proffesionals - 2020
+
+  - **Masters in Informationa and Communication Technology**  
+  Bangladesh University of Proffesionals - 2020
+
+- **Masters in Informationa and Communication Technology**  
+  Bangladesh University of Proffesionals - 2020
+
+  - **Masters in Informationa and Communication Technology**  
+  Bangladesh University of Proffesionals - 2020
 
 ## 📜 Certifications
 
