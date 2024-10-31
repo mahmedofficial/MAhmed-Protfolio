@@ -156,26 +156,23 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 
 ## 📖 Training
 
-- ***ICS Cybersecurity Lab (301L) - 4 days***
-
+- ***ICS Cybersecurity Lab (301L) - 4 days***  
   Conducted by CISA, USA. This course is presented at a facility in Idaho Falls, Idaho, USA
   
-- ***2020 APISC Security Training Course***
-
+- ***2020 APISC Security Training Course***  
 Conducted by Korea Internet and Security Agency, Republic of Korea.
 
-- ***Understanding Exploits I & II***
-Conducted by CYBER4Dev, Funded by European Union
+- ***Understanding Exploits I & II***  
+  Conducted by CYBER4Dev, Funded by European Union
 
-***Certified Penetration Tester***
+***Certified Penetration Tester***  
+  Conducted by Cybertronium, Funded by Malaysian Technical Cooperation Program
 
-Conducted by Cybertronium, Funded by Malaysian Technical Cooperation Program
+***Practical Ethical Hacking Course***  
+  Conducted by TCM Security
 
-*Practical Ethical Hacking Course*
-Conducted by TCM Security
-
-*Open-Source Intelligence (OSINT) Fundamentals*
-Conducted by TCM Security
+***Open-Source Intelligence (OSINT) Fundamentals***  
+  Conducted by TCM Security
 
 
 ## 🌐 Projects
