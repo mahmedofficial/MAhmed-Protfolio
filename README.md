@@ -118,10 +118,10 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 
 ## 📚 Education
 
-- **Masters in Informationa and Communication Technology**  
+- **Masters in Information and Communication Technology (MICT)**  
   Bangladesh University of Proffesionals - 2020
 
-  - **Masters in Informationa and Communication Technology**  
+  - **B.Sc. in Electrical and Electronic Engineering**  
   Bangladesh University of Proffesionals - 2020
 
 - **Masters in Informationa and Communication Technology**  
