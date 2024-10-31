@@ -2,6 +2,14 @@
 
 I'm a dedicated Cybersecurity Professional with a strong background in penetration testing, threat detection, risk assessment, and incident response. I am passionate about safeguarding digital environments and continuously improving security postures.
 
+## 🌐 Personal Projects
+
+- **Malware Analysis Lab**  
+  [Brief description of the project, technologies used, and link to the repository]
+
+- **Cloud Security Lab**  
+  [Brief description of the project, technologies used, and link to the repository]
+  
 ## 🛠️ Skills
 
 - **Threat Analysis**: Identifying and mitigating potential security threats.
@@ -175,13 +183,7 @@ Conducted by Korea Internet and Security Agency, Republic of Korea.
   Conducted by TCM Security
 
 
-## 🌐 Projects
 
-- **Malware Analysis Lab**  
-  [Brief description of the project, technologies used, and link to the repository]
-
-- **Cloud Security Lab**  
-  [Brief description of the project, technologies used, and link to the repository]
 
 ## 🌟 Contributions
 
