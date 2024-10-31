@@ -50,7 +50,7 @@ I'm a dedicated Cybersecurity Professional with a strong background in penetrati
 
 The goal of Info-Sarker phase 2 Project is to develop Bangladesh Government Intranet backbone, which connect more than 18000 government offices including National datacenter and Disaster recovery data center.
 
-Accomplishment
+*Accomplishment*
 • Continuously support to deploy Info-Sarker IP/MPLS Network as per Low Level Design
 • IP network devices such as Firewall, Core switch, Access switch installation and commissioning in both national data center and disaster recovery datacenter.
 • In disaster recovery datacenter, deploy inline IPS solution, firewall and core routers. Deploy MPLS over EBGP to smooth synchronization between national and disaster recovery data center.
