@@ -14,7 +14,9 @@ I'm a dedicated Cybersecurity Professional with a strong background in penetrati
 
 ### Incident Handler
 **BGD e-GOV CIRT** - Dhaka, Bangladesh  
-*July 2020 - Present*  
+*July 2020 - Present* 
+
+**Major Responsibilities**
 - Perform real-time cyber defense incident handling tasks such as intrusion correlation and tracking, threat analysis, and direct system remediation.
 - Identify and analyze cyber incidents and threats by conducting security triage.
 - Actively monitor networks and systems of enlisted critical infrastructures for cyber incidents and threats.
