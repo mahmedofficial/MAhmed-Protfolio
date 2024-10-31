@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mukul Ahmed
 
-I'm a dedicated Cybersecurity Professional with a strong background in penetration testing, threat detection, risk assessment, and incident response. I am passionate about safeguarding digital environments and continuously improving security postures.
+I am a committed Cybersecurity Professional specializing in penetration testing, SOC operations, threat detection, and incident response. With a focus on fortifying digital environments, I am driven by a passion for identifying vulnerabilities and implementing robust security measures to enhance overall security posture.
 
 ## 🌐 Personal Projects
 
