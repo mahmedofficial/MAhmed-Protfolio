@@ -132,9 +132,8 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 
 ## 📜 Professional Certifications 
 
-- ***Certified in Cybersecurity***
-
-Issuing Authority: ISC2, Inc.
+- ***Certified in Cybersecurity***  
+  Issuing Authority: ISC2, Inc.
 
 - ***Cisco Certified CyberOps Associate***
   Issuing Authority: Cisco Systems, Inc.
