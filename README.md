@@ -135,22 +135,22 @@ Worked in a team to replace all the existing backbone and backhaul IP network eq
 - ***Certified in Cybersecurity***  
   Issuing Authority: ISC2, Inc.
 
-- ***Cisco Certified CyberOps Associate***
+- ***Cisco Certified CyberOps Associate***  
   Issuing Authority: Cisco Systems, Inc.
   
-- ***Cisco Certified Network Associate (Routing and Switching)***
+- ***Cisco Certified Network Associate (Routing and Switching)***  
   Issuing Authority: Cisco Systems, Inc.
   
-- ***Cisco Certified Network Associate Security***
+- ***Cisco Certified Network Associate Security***  
   Issuing Authority: Cisco Systems, Inc.
   
-- ***Certified Ethical Hacker (CEHv10)***
+- ***Certified Ethical Hacker (CEHv10)***  
   Issuing Authority: EC-Council
   
-- ***Red Hat Certified System Administrator***
+- ***Red Hat Certified System Administrator***  
   Enterprise 7, Issuing Authority: Red Hat, Inc.
   
-- ***Red Hat Certified Engineer, Enterprise 7***
+- ***Red Hat Certified Engineer, Enterprise 7***  
   Issuing Authority: Red Hat, Inc.
 
 
