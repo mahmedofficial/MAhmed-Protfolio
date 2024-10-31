@@ -79,27 +79,42 @@ Robi incorporate HO-VPN LTE solution along with ring topology for LTE deployment
 - Configured and troubleshoot different IP Protocols OSPF, IBGP, EBGP MPLS, VRRP and so on;
 - Coordinate and communicate cross-functional departments to ensure smooth execution of the project plan.
 
-4. Banglalink Core Giga Project
+**4. Banglalink Core Giga Project**
 
 Worked with a team to complete several projects for Banglalink IP core network. For instance, new Node B integration, O&M service integrated to MPLS Backbone network, Firewall installation and implemented into the network and so on. 
 
-Accomplishment
-• Instructed sub-contractor to install NE40-X8, NE40-X16 router, Edumone-1000 etc.;
-• For IT related service customer had a separate network along MPLS network, we successfully integrate this network into MPLS network. Therefore, customer cost of maintaining separate network is greatly reduced. Moreover, devices on that network were another vendor, it was challenging to perform cross vendor migration;
+**Accomplishment**
+- Instructed sub-contractor to install NE40-X8, NE40-X16 router, Edumone-1000 etc.;
+- For IT related service customer had a separate network along MPLS network, we successfully integrate this network into MPLS network. Therefore, customer cost of maintaining separate network is greatly reduced. Moreover, devices on that network were another vendor, it was challenging to perform cross vendor migration;
 
-5. Bangladesh Grameenphone IP Core Swap Project
+**5. Bangladesh Grameenphone IP Core Swap Project**
 
 Worked in a team to replace all the existing backbone and backhaul IP network equipment by new IP devices and installation, commissioning, integration as well.
 
-Accomplishment
-• Performed installation new devices, transform old device connectivity to new device as per design;
-• Successfully performed backhaul site migration and configured all the services;
-• Troubleshooting IP Protocols such as IS-IS BGP MPLS vpn-instance and so on;
+**Accomplishment**
+- Performed installation new devices, transform old device connectivity to new device as per design;
+- Successfully performed backhaul site migration and configured all the services;
+- Troubleshooting IP Protocols such as IS-IS BGP MPLS vpn-instance and so on;
 
+### Assistant System Engineer
+**Kay Telecommunications Ltd (International Gateway)** - Dhaka, Bangladesh  
+*October 2012 - November 2013* 
 
+**Accomplishment**
+- Confidently provide 1st level technical support to local and international carriers for fulfilment of SLA (Service Legal Agreements);
+- Consistently oversee all critical, major, minor, warning alarms of all network elements and took action according to problem severity;
+- Successfully identified and diagnosed VOIP calls fault using industry standard tools;
+- Altered carriers and suppliers assigned IP, route plan, technical details as per management request and also maintained documentation accordingly;
+- Hourly checked performance measurement like call attempts, concurrent call, ASR, KPI, ACD, FCR, trunk route congestion of incoming & outgoing traffics and also monitored bandwidth consumption using MRTG and PRTG;
 
+### Lab Technical Officer
+**BRAC University** - Dhaka, Bangladesh  
+*july 2012 - October 2012* 
 
-
+**Accomplishment**
+- Collaborated with team members to provide technical support, including procedural documentation and relevant reports;
+- Installed and configured computer systems and networks such as LAN, WAN etc.;
+- Analyzed hardware/software faults and solve technical and applications problems;
 
 ## 📚 Education
 
