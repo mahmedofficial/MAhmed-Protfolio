@@ -191,7 +191,7 @@ Conducted by Korea Internet and Security Agency, Republic of Korea.
 ## 📫 Contact Me
 
 - m.ahmed.pro@gmail.com
-- (LinkedIn Profile)[www.linkedin.com/in/mahmedbd]
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahmedbd)
 - [Twitter Profile]
 
 ## 💡 Let's Connect!
