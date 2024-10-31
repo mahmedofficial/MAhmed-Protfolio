@@ -165,22 +165,22 @@ Conducted by Korea Internet and Security Agency, Republic of Korea.
 - ***Understanding Exploits I & II***  
   Conducted by CYBER4Dev, Funded by European Union
 
-***Certified Penetration Tester***  
+- ***Certified Penetration Tester***  
   Conducted by Cybertronium, Funded by Malaysian Technical Cooperation Program
 
-***Practical Ethical Hacking Course***  
+- ***Practical Ethical Hacking Course***  
   Conducted by TCM Security
 
-***Open-Source Intelligence (OSINT) Fundamentals***  
+- ***Open-Source Intelligence (OSINT) Fundamentals***  
   Conducted by TCM Security
 
 
 ## 🌐 Projects
 
-- **[Project Name]**  
+- **Malware Analysis Lab**  
   [Brief description of the project, technologies used, and link to the repository]
 
-- **[Project Name]**  
+- **Cloud Security Lab**  
   [Brief description of the project, technologies used, and link to the repository]
 
 ## 🌟 Contributions
